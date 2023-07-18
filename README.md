@@ -1,2 +1,2 @@
 # t_practice
-ticketing practice
+Y/E/S/2/4 ticketing 자동화 practice
